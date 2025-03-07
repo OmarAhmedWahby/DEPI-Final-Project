@@ -20,5 +20,7 @@ Using **Power BI, SQL, and Excel**, it generates interactive reports that highli
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/supermarket-sales-analysis.git
-   cd supermarket-sales-analysis
+git clone https://github.com/OmarAhmedWahby/Final-Project-DEPI.git
+cd Final-Project-DEPI
+
+
