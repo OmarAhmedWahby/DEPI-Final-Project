@@ -1,5 +1,5 @@
-# DEPI-Final-Project
-Supermarket Sales Analysis 🛒📊
+# DEPI-Final-Project 
+# Supermarket Sales Analysis 🛒📊
 
 Overview
 This project analyzes supermarket sales data to uncover patterns and provide data-driven insights. 
