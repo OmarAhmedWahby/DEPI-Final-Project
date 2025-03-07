@@ -19,7 +19,7 @@ Using **Power BI, SQL, and Excel**, it generates interactive reports that highli
 ## Installation & Setup 🚀  
 
 1. **Clone the repository:**  
-   ```bash
+```bash
 git clone https://github.com/OmarAhmedWahby/Final-Project-DEPI.git
 cd Final-Project-DEPI
 
