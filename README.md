@@ -20,6 +20,6 @@ Using **Power BI, SQL, and Excel**, it generates interactive reports that highli
 
 1. **Clone the repository:**  
 ```bash
-https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/Final%20Project%20DEPI.pbix
+[Download Final Project DEPI.pbix](https://github.com/OmarAhmedWahby/DEPI-Final-Project/raw/main/Final%20Project%20DEPI.pbix)
 
 
