@@ -1,45 +1,64 @@
-# Supermarket Sales Analysis 🛒📊  
+# 📊 Superstore Sales Analysis (2015–2018)
 
-This project presents a technical analysis of Superstore sales data from 2015 to 2018. The main objective is to uncover insights related to sales performance, customer behavior, and product profitability using Microsoft Power BI.
+This project presents a technical data analysis of Superstore sales data between 2015 and 2018. The analysis was performed using Power BI, with a strong focus on data cleaning, modeling, and uncovering insights to support data-driven business decisions.
 
-## 🔍 Project Goals
-Analyze historical sales trends
+---
 
-Identify top-performing product categories and regions
+## 🎯 Project Objectives
 
-Evaluate customer activity and retention
+- Analyze sales performance and trends over time  
+- Identify top-performing product categories and regions  
+- Explore customer behavior and engagement  
+- Calculate key metrics such as Recency, Frequency, Retention, and Average Order Value  
+- Build an interactive report using Power BI for business users
 
-Develop a robust data model using star schema
+---
 
-Create interactive dashboards using Power BI
+## 🛠 Tools & Technologies Used
 
+- Microsoft Excel — raw data source (.xlsx)  
+- SSIS (SQL Server Integration Services) — for data cleaning (handling duplicates, fixing Product IDs)  
+- Power Query — for data transformation and building the Date dimension  
+- DAX (Data Analysis Expressions) — for calculating KPIs and customer metrics (RFM, AOV, Retention, etc.)  
+- Power BI Desktop — for data modeling, visualizations, and dashboard development  
+- Git & GitHub — for version control and sharing the project
 
-## 🛠 Tools & Technologies
+---
 
-Excel (Raw data source)
+## 🧱 Data Model
 
-SQL Server Integration Services (SSIS) – for ETL and data cleaning
+The dataset was organized into a star schema with the following structure:
 
-Power Query – for data transformation
+- Fact Table: Sales Transactions  
+- Dimension Tables: Product, Customer, Region, Date  
 
-DAX – for calculated KPIs
+This model enables flexible time-based and regional analysis.
 
-Power BI – for data modeling and visualization
+---
 
-Git & GitHub – for version control
+## 📈 Key Insights
 
-📂 Files Included
-pbix file (Power BI report)
+- Most profitable regions and cities were identified  
+- Top-selling categories and sub-categories were ranked  
+- Customer activity was segmented based on Recency and Frequency  
+- Shipping modes were analyzed for impact on performance  
+- Dynamic metrics built using DAX enhanced report interactivity
 
-Cleaned dataset (Excel format)
+---
 
-Screenshots from dashboards
+## 📁 Project Files
 
-DAX documentation (optional)
+- 📊 [Download Power BI Report (.pbix)](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI%20FP.pbix)
 
+> Note: Open the .pbix file using Power BI Desktop to explore the full report and metrics.
 
+---
 
-1. **Clone the repository:**  
-[Download Final Project DEPI.pbix](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI%20FP.pbix)
+## 👨‍💻 Author
+
+Omar Ahmed Wahby  
+GitHub: [@OmarAhmedWahby](https://github.com/OmarAhmedWahby)
+
+---
 
 
