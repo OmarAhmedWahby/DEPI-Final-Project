@@ -50,6 +50,7 @@ This model enables flexible time-based and regional analysis.
 
 - 📊 [Download Power BI Report (.pbix)](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI%20FP.pbix)
 - 📁 [View the Technical Report (PDF)](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/Technical%20Report.pdf)
+- 📁 [Download Data Soruce](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI-Project.xlsx)
 
 > Note: Open the .pbix file using Power BI Desktop to explore the full report and metrics.
 
