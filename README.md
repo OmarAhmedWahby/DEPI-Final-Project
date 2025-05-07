@@ -1,24 +1,45 @@
 # Supermarket Sales Analysis 🛒📊  
 
-## Overview  
-This project analyzes supermarket sales data to uncover patterns and provide data-driven insights.  
-Using **Power BI, SQL, and Excel**, it generates interactive reports that highlight key performance indicators (KPIs) such as:  
+This project presents a technical analysis of Superstore sales data from 2015 to 2018. The main objective is to uncover insights related to sales performance, customer behavior, and product profitability using Microsoft Power BI.
 
-- 📈 Sales trends  
-- 🛍️ Top-selling products  
-- 🏷️ Customer purchasing behavior  
+## 🔍 Project Goals
+Analyze historical sales trends
 
-## Features ✨  
+Identify top-performing product categories and regions
 
-✅ Comprehensive sales and revenue analysis across different time periods.  
-✅ Interactive **Power BI dashboards** displaying key business insights.  
-✅ Data extraction, transformation, and cleaning using **SQL** and **Excel**.  
-✅ **Row-Level Security (RLS)** implementation to control data access.  
-✅ Integration with multiple data sources like **Excel and SQL Server**.  
+Evaluate customer activity and retention
 
-## Installation & Setup 🚀  
+Develop a robust data model using star schema
+
+Create interactive dashboards using Power BI
+
+
+## 🛠 Tools & Technologies
+
+Excel (Raw data source)
+
+SQL Server Integration Services (SSIS) – for ETL and data cleaning
+
+Power Query – for data transformation
+
+DAX – for calculated KPIs
+
+Power BI – for data modeling and visualization
+
+Git & GitHub – for version control
+
+📂 Files Included
+pbix file (Power BI report)
+
+Cleaned dataset (Excel format)
+
+Screenshots from dashboards
+
+DAX documentation (optional)
+
+
 
 1. **Clone the repository:**  
-[Download Final Project DEPI.pbix](https://github.com/OmarAhmedWahby/DEPI-Final-Project/raw/main/Final%20Project%20DEPI.pbix)
+[Download Final Project DEPI.pbix](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI%20FP.pbix)
 
 
