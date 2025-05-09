@@ -47,9 +47,10 @@ This model enables flexible time-based and regional analysis.
 ---
 
 ## 📁 Project Files
-
+- 📊 [View Power BI Reprot](https://app.powerbi.com/view?r=eyJrIjoiZmE3YjI4ZTctMmJiZC00MzcwLTllYzItMzJhNjJhMDNmYjQ3IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+- 📁 [View the Documents(PDF)](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/Documents.pdf)
+- 📁 [Download Presentation](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/Superstore-Business.pptx)
 - 📊 [Download Power BI Report (.pbix)](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI%20FP.pbix)
-- 📁 [View the Technical Report (PDF)](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/Technical%20Report.pdf)
 - 📁 [Download Data Soruce](https://github.com/OmarAhmedWahby/DEPI-Final-Project/blob/main/DEPI-Project.xlsx)
 
 > Note: Open the .pbix file using Power BI Desktop to explore the full report and metrics.
