@@ -55,13 +55,17 @@ This model enables flexible time-based and regional analysis.
 
 > Note: Open the .pbix file using Power BI Desktop to explore the full report and metrics.
 
----
+--- 
 
-## 👨‍💻 Author
+## 👨‍💻Team Members
 
-Omar Ahmed Wahby  
-GitHub: [@OmarAhmedWahby](https://github.com/OmarAhmedWahby)
+### Omar Ahmed Wahby  
+- [LinkedIn](https://www.linkedin.com/in/omarwahby)  
+- [GitHub](https://github.com/OmarAhmedWahby)
 
----
+### Mohanad Elkashir  
+- [LinkedIn](https://www.linkedin.com/in/mohanad-elkashir-412b95242)  
+- [GitHub](https://github.com/ElKashir)
+
 
 
